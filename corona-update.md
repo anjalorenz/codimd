@@ -5,6 +5,9 @@ tags: corona, statistics
 lang: de
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/LV2SI3gRSLuH3rAvcgJ6ug/badge)](https://hackmd.io/LV2SI3gRSLuH3rAvcgJ6ug)
+
+
 Link (aktuelle Arbeitsversion): [https://hackmd.io/@anjalorenz/coronaupdate](https://hackmd.io/@anjalorenz/coronaupdate)
 
 # Coronavirus-Update
